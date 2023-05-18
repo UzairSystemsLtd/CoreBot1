@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5g7l5pRz3XgNBO6WhWr8ltix8+pdkd8Dyvs0gsQIYCs=",
+  "Source": "CoreBot1",
+  "BasePath": "_content/CoreBot1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreBot1\\wwwroot",
+      "Source": "CoreBot1",
+      "ContentRoot": "C:\\Users\\uzair.suleman\\Downloads\\Uzair\\Projects\\Open AI\\Fashion Use Case\\Code\\Bot Framework SDK\\CoreBot1\\CoreBot1\\wwwroot\\",
+      "BasePath": "_content/CoreBot1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\uzair.suleman\\Downloads\\Uzair\\Projects\\Open AI\\Fashion Use Case\\Code\\Bot Framework SDK\\CoreBot1\\CoreBot1\\wwwroot\\default.htm",
+      "SourceId": "CoreBot1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\uzair.suleman\\Downloads\\Uzair\\Projects\\Open AI\\Fashion Use Case\\Code\\Bot Framework SDK\\CoreBot1\\CoreBot1\\wwwroot\\",
+      "BasePath": "_content/CoreBot1",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
